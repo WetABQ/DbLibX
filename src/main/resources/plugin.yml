@@ -1,0 +1,8 @@
+name: DbLibX
+main: top.wetabq.dblibx.DbLibX
+version: "1.0.0"
+api: ["1.0.0"]
+load: POSTWORLD
+author: WetABQ
+depend:
+  - "KotlinLib"
